@@ -1,0 +1,13 @@
+name = "wch-server"
+author = "Hika138"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2906bcf30cfc0131c85c7a22682c22cc96c946b147f81f26a537cbdec96ae6a2"
+
+[versions]
+forge = "47.4.29"
+minecraft = "1.20.1"
