@@ -1,0 +1,8 @@
+name = "jei-1.20.1-forge-15.56.0.205"
+filename = "jei-1.20.1-forge-15.56.0.205.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9jqubC9n/jei-1.20.1-forge-15.56.0.205.jar"
+hash-format = "sha512"
+hash = "1306fe15c81d54aa9ff8f3d9f04812c0d61ffaaae433c29621f926db8f8e2c898669ccdd99e025849859d38b7a2eac170c466390b467f4dfa77542b5dbdd1678"

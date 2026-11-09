@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar.pw.toml"
+hash = "5a6e6b1e12ecc145cd4523ad3ecbebcdb8aab59caa5455e09c303ac0801ab1c1"
+metafile = true
+
+[[files]]
+file = "mods/Jade-1.20.1-Forge-11.13.3.jar.pw.toml"
+hash = "5e2d83e62128011fd8221b3cc9995fdc1d363c4f2e1c44ec95e36e6fba0b523c"
+metafile = true
+
+[[files]]
+file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar.pw.toml"
+hash = "2076dca1b96d2a1e8458c1a32b38d1a92db8cca668af983f8feee00d1a9248d9"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-forge-1.11.3-mc1.20.1.jar.pw.toml"
+hash = "ac522d643e989b2fb0ac78c29941ae5b7e1c8271e71a835972078d59cb2fd68d"
+metafile = true
+
+[[files]]
+file = "mods/jei-1.20.1-forge-15.56.0.205.jar.pw.toml"
+hash = "8707178aa5e6f8987bc93f0f693df8bbbd5dab31ec2ef84fa7a2dc0c19bd4b2d"
+metafile = true
+
+[[files]]
+file = "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar.pw.toml"
+hash = "6e5914d9edc0c0eb3b0fcb38a3cc7f9b59eb738c60fdc984e3dc19c2d1d7eeec"
+metafile = true
+
+[[files]]
+file = "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar.pw.toml"
+hash = "3b438c687a7ae512e12e89dde042d4aa74c682b6ae31bdbd29c42c6a254d9d79"
+metafile = true
+
+[[files]]
+file = "mods/xaerominimap-forge-1.20.1-26.6.0.jar.pw.toml"
+hash = "9e0f77a576a24aed885379262abda4c297afafc7977a1a660519af021b401aca"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-forge-1.20.1-1.47.0.jar.pw.toml"
+hash = "e51692441ab00d6cf9f7d2fb8796f8361d44ba3e7469ae150eed48ce983e3c19"
+metafile = true
